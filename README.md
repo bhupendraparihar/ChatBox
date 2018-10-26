@@ -1,0 +1,1 @@
+# This project is a simple implementation of ChatBox app to showcase the Object Oriented JavaScript concepts.

@@ -1,0 +1,14 @@
+.chat-box {
+    height: 300px;
+    border: 1px solid #CCC;
+    display: inline-block;
+    background-color: #EEE;
+    padding: 5px;
+}
+
+.chat-messages {
+    height: 80%;
+    background-color: #FFF;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+}
